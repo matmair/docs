@@ -57,9 +57,22 @@ Please visit the [capabilities page](https://docs.ovh.com/gb/en/publiccloud/data
 
 Take note of the pricing information.
 
-#### Step 5: Configure your options
+### Step 5: Size of nodes
 
-You can name your database in this step and decide to attach a private network.
+Select the number of nodes required for the your cluster:
+
+![Size of nodes](images/databases_01_order_control_panel-20221214083133668.png){.thumbnail}
+
+
+### Step 6: Configure your options
+
+Depending on the type of database you can adjust the number of nodes in your cluster and add storage space
+
+![](images/databases_01_order_control_panel-20221214083749687.png){.thumbnail}
+
+#### Step 7: Database service configuration
+
+Define your network configuration:
 
 ![Configure options](images/databases_01_order_control_panel-20220727191850299.png){.thumbnail}
 

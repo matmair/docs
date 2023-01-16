@@ -7,7 +7,7 @@ routes:
     canonical: 'https://docs.ovh.com/gb/en/logs-data-platform/windows-nxlog/'
 ---
 
-**Last updated 27th July, 2020**
+**Last updated 16th January, 2023**
 
 ## Objective
 
@@ -115,7 +115,7 @@ Jump to Graylog (use the Graylog access button in the Manager) and to the stream
 
 I think that's pretty much it. I know, it didn't even take 10 minutes :-).
 
-If you want to go further, don't hesitate to fly to the [NXlog documentation](https://nxlog.co/docs/){.external}
+If you want to go further, don't hesitate to fly to the [NXlog documentation](https://docs.nxlog.co/userguide/documentation.html){.external}
 
 ## Getting Help
 
